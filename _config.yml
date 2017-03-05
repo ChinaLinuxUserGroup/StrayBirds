@@ -121,8 +121,8 @@ markdown: redcarpet
 safe: false
 highlighter: pygments
 title: 国粹
-description: 己有能，勿自私
-theme: leap-day
+description: 己有能，勿自私。
+theme: slate
 disqusname: minixalpha
 
 # theme can be: hack, leap-day, merlot, midnight, minimal, modernist, slate, time-machine, kunka
