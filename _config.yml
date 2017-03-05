@@ -120,8 +120,8 @@ baseurl: /StrayBirds
 markdown: redcarpet
 safe: false
 highlighter: pygments
-title: 飞鸟集
-description: 己有能，勿自私。
+title: 国粹
+description: 己有能，勿自私
 theme: leap-day
 disqusname: minixalpha
 
